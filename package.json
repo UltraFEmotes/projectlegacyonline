@@ -1,0 +1,10 @@
+{
+  "name": "minecraft-relay-server",
+  "version": "1.0.0",
+  "description": "TCP Relay Proxy for Minecraft Legacy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
